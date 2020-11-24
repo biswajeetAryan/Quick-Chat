@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>622237487296-tk7s8u05tor2gvtvogg98eb9ik9t2v72.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.622237487296-tk7s8u05tor2gvtvogg98eb9ik9t2v72</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTuddW72sHZ3K8gIApekyFjKAX-zg5d2w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622237487296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.biswa.iOSQuickApp</string>
+	<key>PROJECT_ID</key>
+	<string>first-project-a1edc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>first-project-a1edc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622237487296:ios:86b469de5c5fec8ca9dd25</string>
+	<key>DATABASE_URL</key>
+	<string>https://first-project-a1edc.firebaseio.com</string>
+</dict>
+</plist>
